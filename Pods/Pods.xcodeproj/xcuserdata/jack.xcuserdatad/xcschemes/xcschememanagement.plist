@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Masonry iOS Examples-Masonry.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>Pods-Masonry iOS Examples.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>Pods-Masonry iOS Tests-Expecta.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>Pods-Masonry iOS Tests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>Pods-MasonryTestsLoader-Masonry.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Pods-MasonryTestsLoader.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0192781566DC4A8535853D1D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0E25EC6C44700B880E48590D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7C779FF1ABDAF25168139DA1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7DF5619B8B071634BB0098B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CA8E6CA5AC9FC867A335BA08</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E277628BD9774F96B09FE373</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
